@@ -636,7 +636,24 @@ padding-bottom: 0;
 
 	.sns .fab {
 		font-size: 50px;
-		margin-right: 8px;
 	}
+	.icon1  {
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.icon:nth-child(1) {
+	padding-right:8px;
+}
+.icon:nth-child(2) {
+	padding-right:8px;
+}
+	.icon:last-child {
+		margin-right: 0px;
+
+}
+
+
+
 
 }
